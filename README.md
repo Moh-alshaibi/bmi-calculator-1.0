@@ -1,3 +1,1 @@
-A bmi calculator created with the help of ChatGPT.
-
-"Test Project"
+A bmi calculator created with HTML, CSS and Javascript
